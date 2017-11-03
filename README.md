@@ -17,4 +17,4 @@ COMPILING TO STATIC BINARY
 NOTES:
 ------
 - a docker solution is in the works which will make everything easier
-- ENV variables are locaed in ./bin/dev.sh for you manipulation
+- ENV variables are located in ./bin/dev.sh for you manipulation
